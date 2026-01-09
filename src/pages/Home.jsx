@@ -1,5 +1,5 @@
 import myPhoto from "../assets/MyPhoto.png";
-import myResume from "../assets/myResume.pdf";
+import myResume from "../assets/MyResume.pdf";
 import html from "../assets/tech/html.png";
 import css from "../assets/tech/css.png";
 import js from "../assets/tech/js.png";
