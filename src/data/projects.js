@@ -85,7 +85,7 @@ const featuredProjects = [
       "This project is a personal portfolio website built to present my work, skills, and background in a clear and structured way. It features a component-driven architecture, responsive design, and smooth navigation using React Router. The Projects section follows a master–detail layout with optional live previews, while accessibility and performance were considered throughout the design. The portfolio reflects my approach to building maintainable frontend applications with clean UI and scalable structure.",
     preview: {
       type: "live",
-      src: "https://snake-game-blush-nu-12.vercel.app/",
+      src: "https://portfolio-khaki-seven-34.vercel.app/",
     },
     fallbackImage: snakeGame,
     techStack: [
@@ -96,7 +96,7 @@ const featuredProjects = [
     ],
     links: {
       github: "https://github.com/Biraj-Sarkar/Portfolio",
-      live: "https://snake-game-blush-nu-12.vercel.app/",
+      live: "https://portfolio-khaki-seven-34.vercel.app/",
     },
   },
 ];
