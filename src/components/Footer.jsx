@@ -1,5 +1,5 @@
 import { NavLink } from "react-router";
-import myResume from "../assets/myResume.pdf";
+import myResume from "../assets/MyResume.pdf";
 
 export default function Footer() {
     return (
