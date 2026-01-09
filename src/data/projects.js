@@ -95,7 +95,7 @@ const featuredProjects = [
       "Tailwind CSS",
     ],
     links: {
-      github: "https://github.com/Biraj-Sarkar/Snake-Game",
+      github: "https://github.com/Biraj-Sarkar/Portfolio",
       live: "https://snake-game-blush-nu-12.vercel.app/",
     },
   },
